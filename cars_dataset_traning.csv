@@ -1,0 +1,600 @@
+,Model,Year,Km/h,Color,Type,Fuel,Price
+0,Hyundai Elantra HD,2009,165000,Gray,Automatic,Gasoline,560000
+1,Hyundai Elantra,2010,194000,Black,Automatic,Gasoline,600000
+2,Hyundai Elantra HD,2010,205000,Silver,Automatic,Gasoline,575000
+3,Hyundai Elantra,2010,160000,Black,Automatic,Gasoline,550000
+4,Hyundai Elantra,2009,140451,Eggplant,Automatic,Gasoline,650000
+5,Hyundai Elantra,2009,380000,Black,Automatic,Gasoline,580000
+6,Hyundai Elantra,2010,220000,Black,Automatic,Gasoline,600000
+7,Hyundai Elantra,2010,200000,Silver,Automatic,Gasoline,600000
+8,Hyundai Elantra,2010,220000,Black,Automatic,Gasoline,570000
+9,Hyundai Elantra HD,2009,100000,Bronze,Automatic,Gasoline,475000
+10,Hyundai Accent RB,2012,138000,Silver,Automatic,Gasoline,540000
+11,Hyundai Accent RB,2012,188000,Gray,Automatic,Gasoline,530000
+12,Hyundai Accent RB,2011,220000,Silver,Automatic,Gasoline,530000
+13,Hyundai Accent RB,2011,179000,Silver,Automatic,Gasoline,715000
+14,Hyundai Accent RB,2012,125800,Black,Automatic,Gasoline,600000
+15,Hyundai Accent RB,2012,135000,Silver,Automatic,Gasoline,525000
+16,Hyundai Accent RB,2012,176000,Red,Automatic,Gasoline,550000
+17,Hyundai Accent RB,2012,161000,Bronze,Manual,Gasoline,430000
+18,Hyundai Accent RB,2012,145000,Mocha,Automatic,Gasoline,530000
+19,Hyundai Accent RB,2012,270000,Cyan,Manual,Gasoline,420000
+20,Hyundai Accent ,2010,280000,Red,Automatic,Gasoline,385000
+21,Hyundai Accent ,2010,240000,Veronica,Manual,Gasoline,350000
+22,Hyundai Accent ,2010,500000,Silver,Manual,Gasoline,315000
+23,Hyundai Accent ,2009,280000,Red,Manual,Gasoline,415000
+24,Hyundai Accent ,2009,95000,Dark Blue,Automatic,Gasoline,450000
+25,Hyundai Accent ,2010,148000,Dark Red,Automatic,Gasoline,460000
+26,Hyundai Accent ,2010,170000,Silver,Automatic,Gasoline,420000
+27,Hyundai Verna,2014,52000,Silver,Manual,Gasoline,420000
+28,Hyundai Verna,2013,260000,Silver,Manual,Gasoline,360000
+29,Hyundai Verna,2013,22500,Black,Manual,Gasoline,340000
+30,Hyundai Verna,2014,298534,Silver,Manual,Gasoline,270000
+31,Hyundai Verna,2013,400000,Silver,Manual,Gasoline,360000
+32,Hyundai Verna,2013,180000,White,Manual,Gasoline,270000
+33,Hyundai Verna,2014,110000,Silver,Manual,Gasoline,400000
+34,Hyundai Verna,2014,110000,Mocha,Manual,Gasoline,352000
+35,Hyundai Verna,2018,95000,Dark Red,Automatic,Gasoline,460000
+36,Hyundai Verna,2019,95000,Silver,Manual,Gasoline,595000
+37,Hyundai Verna,2018,377000,Gray,Manual,Gasoline,400000
+38,Hyundai Atos,2010,142000,Silver,Manual,Gasoline,310000
+39,Hyundai Atos,2011,114000,Dark Red,Manual,Gasoline,285000
+40,Hyundai Atos,2010,106000,Silver,Manual,Gasoline,300000
+41,Hyundai Atos,2010,93000,Red,Manual,Gasoline,283000
+42,Hyundai Accent RB,2019,105300,Black,Automatic,Gasoline,700000
+43,Hyundai Accent RB,2019,46000,Red,Automatic,Gasoline,670000
+44,Hyundai Accent RB,2019,150000,Black,Automatic,Gasoline,710000
+45,KIA Cerato,2022,55000,Gray,Automatic,Gasoline,1220000
+46,KIA Cerato,2022,84000,Blue,Automatic,Gasoline,1250000
+47,KIA Cerato,2022,57000,Red,Automatic,Gasoline,1050000
+48,KIA Cerato,2022,54000,Gray,Automatic,Gasoline,1100000
+49,KIA Cerato,2022,56500,Silver,Automatic,Gasoline,1100000
+50,KIA Cerato,2023,20000,Red,Automatic,Gasoline,1285000
+51,KIA Cerato,2022,75000,White,Automatic,Gasoline,1220000
+52,KIA Cerato,2022,120000,Veronica,Automatic,Gasoline,1050000
+53,KIA Cerato,2023,32000,Silver,Automatic,Gasoline,1300000
+54,KIA Cerato,2010,125000,Silver,Automatic,Gasoline,650000
+55,KIA Cerato,2010,163000,Red,Automatic,Gasoline,600000
+56,KIA Cerato,2009,171000,Silver,Automatic,Gasoline,495000
+57,KIA Cerato,2010,77000,Black,Automatic,Gasoline,620000
+58,KIA Cerato,2014,99000,Black,Automatic,Gasoline,875000
+59,KIA Cerato,2015,92000,Black,Automatic,Gasoline,885000
+60,KIA Cerato,2014,195000,Black,Automatic,Gasoline,775000
+61,KIA Cerato,2015,150000,Veronica,Automatic,Gasoline,780000
+62,KIA Cerato,2015,140000,Gray,Automatic,Gasoline,765000
+63,KIA Cerato,2014,140000,Silver,Automatic,Gasoline,685000
+64,KIA Cerato,2018,93000,White,Automatic,Gasoline,885000
+65,KIA Cerato,2019,185000,Dark Red,Automatic,Gasoline,880000
+66,KIA Cerato,2019,100000,White,Automatic,Gasoline,955000
+67,KIA Sol,2013,114000,White,Automatic,Gasoline,750000
+68,KIA Sol,2012,320000,Red,Automatic,Gasoline,640000
+69,KIA Sol,2013,90000,Red,Automatic,Gasoline,750000
+70,KIA Sol,2012,228000,Red,Automatic,Gasoline,660000
+71,KIA Sol,2012,200000,Black,Automatic,Gasoline,875000
+72,KIA Sol,2016,100000,Silver,Automatic,Gasoline,900000
+73,KIA Sol,2015,130000,Bronze,Automatic,Gasoline,800000
+74,KIA Sol,2016,80000,White,Automatic,Gasoline,835000
+75,KIA Sol,2015,70000,White,Automatic,Gasoline,965000
+76,KIA Sol,2015,100000,Black,Automatic,Gasoline,850000
+77,KIA Sol,2016,152000,Gray,Automatic,Gasoline,850000
+78,KIA Picanto,2010,148000,Blue,Automatic,Gasoline,500000
+79,KIA Picanto,2009,156000,Silver,Automatic,Gasoline,410000
+80,KIA Picanto,2010,230000,Black,Manual,Gasoline,350000
+81,KIA Picanto,2010,30000,Bronze,Manual,Gasoline,420000
+82,KIA Picanto,2009,114000,Silver,Automatic,Gasoline,415000
+83,KIA Picanto,2009,93000,Silver,Automatic,Gasoline,450000
+84,KIA Picanto,2010,127000,Black,Automatic,Gasoline,450000
+85,KIA Picanto,2010,115000,Black,Automatic,Gasoline,410000
+86,KIA Picanto,2015,49000,Silver,Automatic,Gasoline,570000
+87,KIA Picanto,2014,189000,White,Automatic,Gasoline,490000
+88,KIA Picanto,2015,94000,Silver,Automatic,Gasoline,550000
+89,KIA Picanto,2014,118000,Silver,Automatic,Gasoline,650000
+90,KIA Picanto,2015,100000,Yellow,Automatic,Gasoline,525000
+91,KIA Rio,2019,65000,White,Automatic,Gasoline,810000
+92,KIA Rio,2019,133000,Veronica,Automatic,Gasoline,720000
+93,KIA Rio,2020,79000,Red,Automatic,Gasoline,825000
+94,KIA K3,2017,130000,Black,Automatic,Gasoline,790000
+95,KIA K3,2017,122000,Black,Automatic,Gasoline,850000
+96,KIA K3,2016,95000,White,Automatic,Gasoline,765000
+97,KIA K3,2016,80000,Petroleum,Automatic,Gasoline,885000
+98,Nissan Qashqai,2018,85000,Brown,Automatic,Gasoline,980000
+99,KIA Sporatge,2019,65000,Dark Grey,Automatic,Gasoline,1400000
+100,Hyundai Tucson Turbo GDI,2019,103000,Red,Automatic,Gasoline,1495000
+101,Skoda Octavia A8,2022,107000,Dark Blue,Automatic,Gasoline,1620000
+102,KIA Sporatge,2023,62000,Dark Green,Automatic,Gasoline,1870000
+103,Nissan Sunny,2024,6000,Red,Automatic,Gasoline,780000
+104,Nissan Centra,2018,110000,Black,Automatic,Gasoline,685000
+105,Nissan Sunny,2022,65000,Red,Automatic,Gasoline,635000
+106,Honda City,2021,45000,Gray,Automatic,Gasoline,1000000
+107,Mercedes GLC 250,2019,61000,Silver,Automatic,Gasoline,3500000
+108,Volvo XC60,2018,110000,Dark Red,Automatic,Gasoline,1950000
+109,Peugeot 308,2016,110000,Silver,Automatic,Gasoline,820000
+110,Ford Focus,2014,198000,Brown,Automatic,Gasoline,540000
+111,Nissan Sunny,2020,127000,Gray,Automatic,Gasoline,565000
+112,Ssang Yong Torres,2023,4700,Black,Automatic,Gasoline,1750000
+113,Chevrolet Optra,2017,79000,Dark Blue,Automatic,Gasoline,520000
+114,KIA Carens,2024,4100,Dark Grey,Automatic,Gasoline,1540000
+115,Volkswagen Tiguan,2023,23000,Dark Blue,Automatic,Gasoline,2480000
+116,Chevrolet Captiva,2021,100000,Black,Automatic,Gasoline,1075000
+117,Mercedes GLC 200,2020,49000,Black,Automatic,Gasoline,3700000
+118,Mercedes E 200 AMG,2021,25000,Black,Automatic,Gasoline,4200000
+119,Hyundai Tucson Turbo GDI,2024,3000,Silver,Automatic,Gasoline,2140000
+120,Audi Q7,2021,70000,Silver,Automatic,Gasoline,4000000
+121,Opel Crossland,2022,37000,Black,Automatic,Gasoline,950000
+122,Hyundai Tucson,2022,48000,White,Automatic,Gasoline,1650000
+123,Mercedes E 200,2021,35000,Black,Automatic,Gasoline,3700000
+124,Renault Megane,2017,120000,Black,Automatic,Gasoline,735000
+125,Nissan Sunny,2020,98000,Silver,Automatic,Gasoline,565000
+126,Toyota Corolla,2021,141000,Black,Automatic,Gasoline,1250000
+127,Jeep Renegade,2017,122000,White,Automatic,Gasoline,970000
+128,Chevrolet Aveo,2013,55000,Dark Grey,Manual,Gasoline,450000
+129,Hyundai Creta SU2,2021,89000,White,Automatic,Gasoline,1225000
+130,Chery Tiggo 7,2022,15000,Dark Grey,Automatic,Gasoline,960000
+131,Mercedes C 180,2011,210000,Dark Grey,Automatic,Gasoline,1250000
+132,Opel Insignia,2019,86000,Silver,Automatic,Gasoline,1175000
+133,Peugeot 3008,2021,50000,White,Automatic,Gasoline,1750000
+134,Peugeot  508,2020,112000,White,Automatic,Gasoline,1450000
+135,Chery Arrizo 5,2024,3000,Red,Automatic,Gasoline,770000
+136,Toyota Corolla,2010,195000,Cyan,Automatic,Gasoline,565000
+137,Mitsubishi Xpander,2022,200000,Silver,Automatic,Gasoline,900000
+138,Peugeot 3008,2021,70000,White,Automatic,Gasoline,1760000
+139,Audi Q3,2021,100000,Gray,Automatic,Gasoline,2000000
+140,Nissan Juke,2022,55000,Dark Red,Automatic,Gasoline,1200000
+141,Toyota Corolla,2020,145000,Silver,Automatic,Gasoline,960000
+142,Nissan Sunny,2021,60000,Champange,Automatic,Gasoline,650000
+143,Chevrolet Lanos,2015,162000,Dark Red,Manual,Gasoline,355000
+144,Hyundai Elantra MD,2012,100000,Black,Automatic,Gasoline,750000
+145,BMW 320,2017,130000,Dark Blue,Automatic,Gasoline,1750000
+146,Skoda Kodiaq,2024,95000,White,Automatic,Gasoline,3350000
+147,Audi A3,2015,126000,Silver,Automatic,Gasoline,1200000
+148,Jeep Grand Cherokee,2021,98000,White,Automatic,Gasoline,3600000
+149,Hyundai Elantra HD,2023,95000,Dark Grey,Automatic,Gasoline,980000
+150,KIA Carens,2012,210000,White,Automatic,Gasoline,700000
+151,KIA Sporatge,2023,12000,Silver,Automatic,Gasoline,1970000
+152,KIA Sorento,2023,13500,Silver,Automatic,Gasoline,2270000
+153,KIA Carnival,2024,7000,Black,Automatic,Gasoline,2990000
+154,KIA Rio,2019,50000,Red,Automatic,Gasoline,850000
+155,KIA Sporatge,2023,29000,Silver,Automatic,Gasoline,3500000
+156,Fiat Tipo,2021,70000,Black,Automatic,Gasoline,825000
+157,BMW 318,2016,88000,Mocha,Automatic,Gasoline,1100000
+158,Chevrolet Optra,2018,113000,Dark Red,Automatic,Gasoline,465000
+159,Honda Civic,2009,150000,Black,Automatic,Gasoline,650000
+160,Hyundai Elantra MD,2013,130000,Gold,Automatic,Gasoline,670000
+161,Toyota Corolla,2018,230000,Dark Red,Automatic,Gasoline,880000
+162,Nissan Juke,2022,60000,White,Automatic,Gasoline,1070000
+163,Nissan Centra,2021,86000,Silver,Automatic,Gasoline,790000
+164,Audi Q7,2022,34500,Silver,Automatic,Gasoline,4800000
+165,Opel Grandland,2022,50000,Red,Automatic,Gasoline,1550000
+166,Mercedes C 180,2022,18000,White,Automatic,Gasoline,855000
+167,Seat Ibiza,2011,200000,Gray,Automatic,Gasoline,450000
+168,Mercedes CLE 200,2024,95000,Black,Automatic,Gasoline,4550000
+169,Mercedes CLA 200,2024,95000,White,Automatic,Gasoline,3350000
+170,BMW X1,2024,95000,Blue,Automatic,Gasoline,3300000
+171,Audi Q3,2024,95000,Black,Automatic,Gasoline,2550000
+172,Jeep Grand Cherokee,2012,210000,White,Automatic,Gasoline,1250000
+173,BMW 318,2011,340000,Dark Red,Automatic,Gasoline,850000
+174,Ford Focus,2012,200000,Black,Automatic,Gasoline,490000
+175,KIA Sporatge,2013,145000,Orange,Automatic,Gasoline,890000
+176,Daewoo Lanos,2009,200000,Dark Red,Manual,Gasoline,220000
+177,KIA Rio,2013,133000,Red,Automatic,Gasoline,610000
+178,Chevrolet Optra,2019,102000,Bronze,Automatic,Gasoline,550000
+179,Skoda Kodiaq,2021,33700,Gray,Automatic,Gasoline,2500000
+180,Nissan Centra,2021,75000,Red,Automatic,Gasoline,950000
+181,Renault Kadjar,2021,80000,White,Automatic,Gasoline,1400000
+182,Speranza Tiggo,2010,130000,Silver,Automatic,Gasoline,390000
+183,Chevrolet Optra,2023,43000,Dark Blue,Automatic,Gasoline,650000
+184,Chevrolet Optra,2022,87000,Silver,Automatic,Gasoline,645000
+185,KIA Carens,2024,4100,Dark Grey,Automatic,Gasoline,1540000
+186,Chevrolet Optra,2020,120000,Dark Blue,Automatic,Gasoline,475000
+187,KIA Carens,2012,210000,White,Automatic,Gasoline,700000
+188,Hyundai Elantra,2016,130000,Silver,Automatic,Gasoline,740000
+189,Hyundai Matrix,2010,158000,Silver,Automatic,Gasoline,575000
+190,Opel Crossland,2020,98000,Dark Blue,Automatic,Gasoline,850000
+191,Mahindra Scorpio,2010,143000,Black,Automatic,Gasoline,325000
+192,Renault Duster,2019,95000,White,Automatic,Gasoline,840000
+193,Skoda Kodiaq,2019,109000,White,Automatic,Gasoline,2050000
+194,Skoda Kodiaq,2024,30,Gray,Automatic,Gasoline,2950000
+195,Hyundai Matrix,2009,102000,Silver,Automatic,Gasoline,375000
+196,Chevrolet Optra,2021,21000,Silver,Automatic,Gasoline,700000
+197,Skoda Octavia A8,2021,34000,Dark Grey,Automatic,Gasoline,1600000
+198,Speranza A113,2012,197000,Dark Red,Manual,Gasoline,240000
+199,Mercedes GLS ,2021,65000,White,Automatic,Gasoline,7000000
+200,Renault Sandero Step Way,2016,157000,Black,Automatic,Gasoline,480000
+201,KIA Sporatge,2024,23000,Gray,Automatic,Gasoline,1900000
+202,Hyundai Accent RB,2016,190000,Blue,Automatic,Gasoline,580000
+203,Geely Cool Ray,2024,22000,Red,Automatic,Gasoline,1275000
+204,Mitsubishi Lancer EX Shark,2016,145000,Silver,Automatic,Gasoline,750000
+205,Mitsubishi Lancer EX Shark,2015,195000,Silver,Automatic,Gasoline,640000
+206,BYD F3,2013,155000,Silver,Manual,Gasoline,300000
+207,BYD F3,2013,500000,White,Manual,Gasoline,255000
+208,Hyundai Elantra MD,2013,130000,Gold,Automatic,Gasoline,670000
+209,Geely Emgrand 7,2015,175000,Green,Manual,Gasoline,325000
+210,Mini Cooper,2024,28000,Red,Automatic,Gasoline,2300000
+211,Chevrolet Optra,2022,103000,Bronze,Automatic,Gasoline,650000
+212,KIA Sporatge,2021,65000,Black,Automatic,Gasoline,1580000
+213,Hyundai Tucson Turbo GDI,2019,103000,Gray,Automatic,Gasoline,1370000
+214,Chevrolet Malibu,2019,119000,White,Automatic,Gasoline,1180000
+215,KIA Cerato,2016,135000,Petroleum,Automatic,Gasoline,810000
+216,Chevrolet Lanos,2010,126000,Dark Grey,Manual,Gasoline,250000
+217,KIA Carnival,2013,224000,Silver,Automatic,Gasoline,880000
+218,Toyota Auris,2013,203000,Black,Automatic,Gasoline,600000
+219,Chery Tiggo 7 Pro,2023,50,Red,Automatic,Gasoline,1370000
+220,Haval H6,2022,50000,White,Automatic,Gasoline,1400000
+221,Chevrolet Aveo,2014,124000,Silver,Automatic,Gasoline,400000
+222,KIA Xceed,2017,180000,Bronze,Automatic,Gasoline,640000
+223,Renault Kadjar,2017,130000,White,Automatic,Gasoline,895000
+224,Peugeot 508,2020,112000,White,Automatic,Gasoline,1450000
+225,Chevrolet Optra,2011,175000,Gray,Automatic,Gasoline,385000
+226,Haval Jolion,2022,57000,Gray,Automatic,Gasoline,1150000
+227,Nissan Sunny,2017,168000,Silver,Automatic,Gasoline,530000
+228,Honda City,2020,140000,Silver,Automatic,Gasoline,890000
+229,Zotye T600,2019,92000,White,Automatic,Gasoline,715000
+230,Alfa Romeo Stelvio,2024,20000,White,Automatic,Gasoline,3600000
+231,Biac M60,2020,249000,White,Automatic,Gasoline,825000
+232,Volkswagen Tiguan,2024,1,Silver,Automatic,Gasoline,2700000
+233,Hyundai Elantra AD,2025,10,Blue,Automatic,Gasoline,1095000
+234,MG MG 4,2024,10,Black,Automatic,Gasoline,1625000
+235,Lada Granta,2021,64000,Red,Manual,Gasoline,950000
+236,Skoda Octavia A7,2014,194000,Blue,Automatic,Gasoline,820000
+237,KIA Sporatge,2023,13500,Silver,Automatic,Gasoline,2270000
+238,Peugeot 2008,2022,79000,White,Automatic,Gasoline,1400000
+239,BMW 320,2016,18000,Dark Red,Automatic,Gasoline,1350000
+240,Hyundai Getz,2009,30000,Silver,Automatic,Gasoline,620000
+241,Nissan Qashqai,2017,140000,Purple,Automatic,Gasoline,795000
+242,Fiat Tipo,2020,80000,Bronze,Manual,Gasoline,560000
+243,Toyota Corolla,2016,57000,Silver,Automatic,Gasoline,960000
+244,Toyota Corolla,2015,150000,White,Automatic,Gasoline,980000
+245,Toyota Corolla,2015,199000,Silver,Automatic,Gasoline,840000
+246,Toyota Corolla,2015,195000,Silver,Automatic,Gasoline,835000
+247,Chevrolet Spark,2010,200000,Red,Manual,Gasoline,220000
+248,Chevrolet Spark,2009,146000,Blue,Manual,Gasoline,235000
+249,Chevrolet Spark,2010,78000,Silver,Manual,Gasoline,250000
+250,Mercedes C 180,2011,210000,Dark Grey,Automatic,Gasoline,1200000
+251,Mercedes C 180,2010,159000,Silver,Automatic,Gasoline,1290000
+252,Fiat Punta,2016,175000,Silver,Automatic,Gasoline,500000
+253,Fiat Punta,2016,220000,Black,Automatic,Gasoline,470000
+254,Fiat Punta,2016,83000,White,Automatic,Gasoline,580000
+255,Renault Logan,2019,96000,Dark Blue,Automatic,Gasoline,460000
+256,Renault Logan,2019,89000,Silver,Automatic,Gasoline,590000
+257,Renault Logan,2018,183000,Red,Automatic,Gasoline,450000
+258,Daewoo Lacetti,2009,206000,Silver,Automatic,Gasoline,350000
+259,Daewoo Lacetti,2009,278000,Black,Automatic,Gasoline,480000
+260,Honda City,2015,200000,Brown,Automatic,Gasoline,750000
+261,Honda City,2014,159000,Black,Automatic,Gasoline,650000
+262,Honda City,2014,250000,Black,Automatic,Gasoline,257000
+263,Honda Accord,2022,27500,Red,Automatic,Gasoline,1900000
+264,Honda Accord,2022,44000,Petroleum,Automatic,Gasoline,1750000
+265,Nissan Tiida,2013,155000,Red,Automatic,Gasoline,520000
+266,Nissan Tiida,2013,180000,Red,Automatic,Gasoline,560000
+267,BMW X1,2015,130000,Black,Automatic,Gasoline,985000
+268,BMW X1,2015,126000,Silver,Manual,Gasoline,1200000
+269,BMW X1,2015,170000,Dark Grey,Automatic,Gasoline,1200000
+270,KIA Grand Cerato,2022,125,White,Automatic,Gasoline,1149000
+271,Toyota C-HR,2017,115000,Silver,Automatic,Gasoline,1000000
+272,Nissan Juke,2022,88000,Silver,Automatic,Gasoline,1060000
+273,KIA Carens,2013,35000,Black,Automatic,Gasoline,795000
+274,Hyundai Tucson,2019,120000,Brown,Automatic,Gasoline,1370000
+275,KIA Sporatge,2021,70000,Dark Blue,Automatic,Gasoline,1550000
+276,Chery Tiggo,2017,165000,Black,Automatic,Gasoline,530000
+277,Nissan Qashqai,2013,168800,Brown,Automatic,Gasoline,695000
+278,Mercedes E 300,2021,8000,Black,Automatic,Gasoline,5500000
+279,Nissan Sunny,2021,70000,Silver,Automatic,Gasoline,620000
+280,BMW X1,2017,120000,Black,Automatic,Gasoline,1500000
+281,Audi A3,2016,113000,Silver,Automatic,Gasoline,1250000
+282,Audi A3,2015,126000,Silver,Automatic,Gasoline,1200000
+283,KIA K3,2014,130000,Bronze,Automatic,Gasoline,675000
+284,KIA K3,2013,80000,White,Automatic,Gasoline,495000
+285,KIA K3,2014,243000,Dark Grey,Automatic,Gasoline,700000
+286,KIA Forte,2011,107000,White,Automatic,Gasoline,760000
+287,KIA Forte,2010,102000,Gray,Automatic,Gasoline,450000
+288,Toyota Rush,2020,100000,White,Automatic,Gasoline,1250000
+289,Toyota Rush,2020,126000,Bronze,Automatic,Gasoline,1200000
+290,Renault Kadjar,2019,65000,Red,Automatic,Gasoline,1050000
+291,Renault Kadjar,2020,120000,White,Automatic,Gasoline,1025000
+292,Fiat 500 X,2019,70000,Red,Automatic,Gasoline,1150000
+293,Fiat 500 X,2020,87000,Blue,Automatic,Gasoline,1080000
+294,Fiat 500 X,2020,210000,Black,Automatic,Gasoline,1050000
+295,Baic X3,2022,68000,White,Automatic,Gasoline,720000
+296,Baic X3,2022,34000,Dark Blue,Automatic,Gasoline,750000
+297,Chery Arrizo 5,2021,66000,Eggplant,Automatic,Gasoline,565000
+298,Chery Arrizo 5,2020,172000,Silver,Automatic,Gasoline,470000
+299,Ford Focus,2010,193000,Black,Automatic,Gasoline,455000
+300,Ford Focus,2010,350000,Blue,Automatic,Gasoline,470000
+301,Chery Tiggo 8 pro,2023,6000,White,Automatic,Gasoline,1350000
+302,Chery Arrizo 5,2020,155000,Gold,Automatic,Gasoline,390000
+303,Fiat Tipo,2020,57000,Brown,Automatic,Gasoline,870000
+304,Toyota Corolla,2024,400,Dark Blue,Automatic,Gasoline,1785000
+305,KIA Grand Cerato,2022,125000,White,Automatic,Gasoline,1149000
+306,KIA Sorento,2024,7500,White,Automatic,Gasoline,3350000
+307,KIA Grand Cerato,2022,84000,Blue,Automatic,Gasoline,1250000
+308,Chevrolet Aveo,2019,95000,Silver,Automatic,Gasoline,540000
+309,Speranza M11,2011,300000,Black,Manual,Gasoline,200000
+310,Hyundai Elantra MD,2012,131000,Silver,Automatic,Gasoline,635000
+311,Daihatsu Terios,2013,65000,White,Automatic,Gasoline,800000
+312,Nissan Centra,2025,8000,Red,Automatic,Gasoline,950000
+313,MG ZS,2021,34000,Blue,Automatic,Gasoline,975000
+314,Hyundai Tucson GDI,2019,125000,Brown,Automatic,Gasoline,1375000
+315,Hyundai Elantra CN7,2022,49000,Petroleum,Automatic,Gasoline,1300000
+316,Honda Civic,2017,106000,Dark Red,Automatic,Gasoline,1180000
+317,BYD F3,2023,5000,Black,Manual,Gasoline,540000
+318,KIA Picanto,2013,93000,Red,Automatic,Gasoline,525000
+319,KIA Sorento,2024,6900,White,Automatic,Gasoline,2885000
+320,Renault Kadjar,2020,119000,White,Automatic,Gasoline,995000
+321,MG HS,2021,100000,White,Automatic,Gasoline,1175000
+322,KIA Cerato,2024,95000,Silver,Automatic,Gasoline,1430000
+323,Mercedes E Class,2025,95000,Green,Automatic,Gasoline,6000000
+324,Hyundai Elantra MD,2013,110000,Dark Red,Automatic,Gasoline,690000
+325,Nissan Sunny,2017,160000,Black,Automatic,Gasoline,510000
+326,Hyundai Elantra,2023,34894,Gray,Automatic,Gasoline,976000
+327,Hyundai Elantra,2023,4609,White,Automatic,Gasoline,992000
+328,Skoda Superb,2022,95000,Dark Grey,Automatic,Gasoline,1960000
+329,Jetour X70 Plus,2022,25000,Black,Automatic,Gasoline,1130000
+330,Land Rover Range Rover Sport,2016,105000,Silver,Automatic,Gasoline,3600000
+331,Nissan Sunny,2008,300000,Silver,Automatic,Gasoline,380000
+332,Peugeot 3008,2025,95000,White,Automatic,Gasoline,1900000
+333,KIA K3,2024,5970,Silver,Automatic,Gasoline,879000
+334,Renault Megane,2020,171200,Red,Automatic,Gasoline,1200000
+335,Peugeot 301,2021,56500,Black,Automatic,Gasoline,790000
+336,Nissan Sunny,2024,3000,Silver,Automatic,Gasoline,800000
+337,BMW 320,2023,29000,Silver,Automatic,Gasoline,2950000
+338,Nissan Qashqai,2021,60000,Dark Blue,Automatic,Gasoline,1300000
+339,Haval Jolion,2022,113000,Silver,Automatic,Gasoline,1060000
+340,Speranza A516,2009,149000,Black,Automatic,Gasoline,285000
+341,KIA Sporatge,2021,445000,Black,Automatic,Gasoline,1795000
+342,Renault Sandero Step Way,2017,97000,Blue,Automatic,Gasoline,590000
+343,Ford Fiesta,2019,130000,Black,Automatic,Gasoline,725000
+344,Volkswagen Passat,2022,4300,Silver,Automatic,Gasoline,2300000
+345,Opel Vectra,2008,264000,Black,Automatic,Gasoline,415000
+346,Mercedes C 200,2023,13000,Black,Automatic,Gasoline,3600000
+347,Hyundai Elantra MD,2012,165000,Silver,Automatic,Gasoline,695000
+348,Mitsubishi Lancer EX Shark,2016,215000,Dark Red,Automatic,Gasoline,745000
+349,Mercedes C 200,2022,60000,Black,Automatic,Gasoline,3200000
+350,Peugeot 5008,2021,97000,Red,Automatic,Gasoline,1775000
+351,MG Rx5,2019,120000,Black,Automatic,Gasoline,960000
+352,Volkswagen Jetta,2012,274000,Black,Automatic,Gasoline,750000
+353,KIA Cerato,2018,126000,Black,Automatic,Gasoline,760000
+354,Opel Astra,2015,209000,Green,Automatic,Gasoline,620000
+355,Hyundai l10,2009,5000,Silver,Automatic,Gasoline,570000
+356,Toyota Corolla,2020,103000,Silver,Automatic,Gasoline,1125000
+357,Hyundai lX 35,2016,150000,Dark Red,Automatic,Gasoline,1030000
+358,Peugeot 3008,2020,85000,Gray,Automatic,Gasoline,1530000
+359,Hyundai Elantra CN7,2021,55000,Red,Automatic,Gasoline,1290000
+360,Toyota Hilux,2023,95000,White,Automatic,Gasoline,2200000
+361,Skoda Kodiaq,2023,5000,Gray,Automatic,Gasoline,2700000
+362,Mitsubishi Lancer EX Shark,2018,134000,Silver,Automatic,Gasoline,735000
+363,Chevrolet Cruze,2016,170000,Black,Automatic,Gasoline,600000
+364,Mercedes B 180,2021,54053,White,Automatic,Gasoline,1950000
+365,KIA Cerato,2018,126784,Dark Blue,Automatic,Gasoline,850000
+366,Skoda Kodiaq,2020,122278,Black,Automatic,Gasoline,2040000
+367,Jeep Cherokee,2011,188730,Black,Automatic,Gasoline,930000
+368,Toyota Corolla,2018,176664,Gray,Automatic,Gasoline,867000
+369,Jac JS4,2022,42619,Red,Automatic,Gasoline,840000
+370,Seat Leon,2020,136714,Red,Automatic,Gasoline,1326000
+371,Audi A5,2018,133675,Dark Red,Automatic,Gasoline,1836000
+372,Jeep Grand Cherokee,2021,111138,Black,Automatic,Gasoline,3670000
+373,Jeep Grand Cherokee,2022,61541,Gray,Automatic,Gasoline,3800000
+374,Fiat Tipo,2021,125927,Silver,Automatic,Gasoline,796000
+375,BMW X1,2014,155227,Dark Grey,Automatic,Gasoline,1020000
+376,MG ZS,2020,219000,Red,Automatic,Gasoline,850000
+377,Hyundai Verna,2012,206000,Silver,Manual,Gasoline,345000
+378,Skoda Octivia A7,2015,242000,Silver,Automatic,Gasoline,860000
+379,Mitsubishi Lancer EX Shark,2016,215000,Dark Red,Automatic,Gasoline,735000
+380,Citroen C4 Grand Picasso,2020,80000,White,Automatic,Gasoline,1150000
+381,MG ZS,2020,72000,Black,Automatic,Gasoline,825000
+382,Daewoo Nubria 2,2009,118000,Gold,Manual,Gasoline,305000
+383,Ford Focus,2018,164000,Dark Grey,Automatic,Gasoline,760000
+384,KIA Sorento,2021,60000,Dark Grey,Automatic,Gasoline,2050000
+385,Subaru XV,2018,200000,White,Automatic,Gasoline,1150000
+386,Mercedes E 200,2024,8000,Black,Automatic,Gasoline,4700000
+387,Citroen C3,2020,62000,Silver,Automatic,Gasoline,750000
+388,Ford Focus,2018,164000,Dark Grey,Automatic,Gasoline,760000
+389,Skoda Fantasia,2013,125000,Black,Automatic,Gasoline,770000
+390,Chery Tiggo 3,2017,86000,Black,Automatic,Gasoline,550000
+391,Peugeot 508,2020,120000,White,Automatic,Gasoline,1375000
+392,MG 5,2022,43000,Blue,Automatic,Gasoline,850000
+393,Suzuki Van,2022,40000,Red,Manual,Gasoline,349000
+394,Chery Tiggo 7,2023,73000,Silver,Automatic,Gasoline,955000
+395,Chevrolet Optra,2016,240000,Dark Grey,Automatic,Gasoline,475000
+396,BMW 528,2011,225000,Dark Blue,Automatic,Gasoline,1300000
+397,MG 5,2022,60000,Blue,Automatic,Gasoline,930000
+398,Chery Tiggo 7,2022,47000,Dark Red,Automatic,Gasoline,830000
+399,Nissan Qashqai,2019,120000,Mocha,Automatic,Gasoline,930000
+400,Xpeng G9,2024,1000,Black,Automatic,Gasoline,3325000
+401,KIA Picanto,2009,230000,Gray,Automatic,Gasoline,450000
+402,KIA Sporatge,2020,70000,Red,Automatic,Gasoline,1675000
+403,Toyota Corolla,2022,66000,Petroleum,Automatic,Gasoline,1320000
+404,Hyundai Elantra CN7,2021,78000,Black,Automatic,Gasoline,1250000
+405,Chevrolet Optra,2023,62000,Dark Red,Automatic,Gasoline,710000
+406,Ford Focus,2017,96000,Champange,Automatic,Gasoline,735000
+407,Jeep Renegade,2021,127000,Gray,Automatic,Gasoline,1230000
+408,Mercedes GLC 200,2020,66000,White,Automatic,Gasoline,3600000
+409,KIA Grand Cerato,2019,125000,Black,Automatic,Gasoline,1050000
+410,Nissan Qashqai,2017,80000,Red,Automatic,Gasoline,860000
+411,Hyundai Tucson GDI,2019,68000,Dark Grey,Automatic,Gasoline,1600000
+412,Volkswagen Passat,2021,139000,Cyan,Automatic,Gasoline,1810000
+413,KIA Grand Cerato,2022,125000,Dark Grey,Automatic,Gasoline,1149000
+414,Hyundai Creta,2017,150000,Silver,Automatic,Gasoline,900000
+415,KIA Grand Cerato,2024,500,Silver,Automatic,Gasoline,1410000
+416,KIA Sol,2014,10000,Silver,Automatic,Gasoline,855000
+417,MG 5,2021,130000,Silver,Automatic,Gasoline,750000
+418,Toyota Corolla,2008,156000,Gray,Automatic,Gasoline,675000
+419,Nissan Sunny,2022,50000,Black,Automatic,Gasoline,595000
+420,Chevrolet Lanos,2014,80000,Silver,Manual,Gasoline,395000
+421,Suzuki Ciaz,2022,17000,Silver,Automatic,Gasoline,870000
+422,Chery Arrizo 5,2021,48000,Eggplant,Automatic,Gasoline,660000
+423,Toyota Corolla,2018,130000,Black,Automatic,Gasoline,960000
+424,Renault Symbol,2009,250000,Silver,Manual,Gasoline,225000
+425,Fiat Tipo,2021,10000,Black,Automatic,Gasoline,950000
+426,Volkswagen Passat,2009,200000,Black,Automatic,Gasoline,575000
+427,Nissan Centra,2019,100000,Gold,Automatic,Gasoline,720000
+428,Peugeot 3008,2011,215000,Silver,Automatic,Gasoline,540000
+429,BYD F3,2025,4000,Dark Red,Automatic,Gasoline,650000
+430,Hyudai Accent RB,2025,37,dark Grey,Automatic,Gasoline,970000
+431,Nissan Qashqai,2018,120000,White,Automatic,Gasoline,950000
+432,Mercedes C 180,2023,6600,Gray,Automatic,Gasoline,3000000
+433,Hyundai Tucson Turbo GDI,2025,25,Dark Blue,Automatic,Gasoline,2300000
+434,Ssang Yong Torres,2024,95000,Silver,Automatic,Gasoline,2225000
+435,KIA Sorento,2023,135000,Silver,Automatic,Hybrid,2270000
+436,Mercedes E 200,2021,35000,Black,Automatic,Gasoline,3700000
+437,MG 5,2022,20000,Silver,Automatic,Gasoline,795000
+438,Opel Corsa,2016,163000,Silver,Automatic,Gasoline,570000
+439,Peugeot 2008,2017,153000,Black,Automatic,Gasoline,670000
+440,Opel Grandland,2019,100000,Dark Grey,Automatic,Gasoline,1185000
+441,Jeep Renegade,2019,102000,Red,Automatic,Gasoline,1120000
+442,Jeep Renegade,2017,90000,White,Automatic,Gasoline,1120000
+443,BMW 520,2016,130000,Silver,Automatic,Gasoline,1680000
+444,Nissan Sunny,2015,111000,Silver,Automatic,Gasoline,575000
+445,Cupra Formentor,2024,18000,Petroleum,Automatic,Gasoline,2350000
+446,Volkswagen Passat,2022,20000,White,Automatic,Gasoline,2275000
+447,Suzuki Swift,2024,95000,Dark Blue,Automatic,Gasoline,875000
+448,Opel Corsa,2022,45000,Dark Grey,Automatic,Gasoline,975000
+449,Nissan Juke,2012,138000,White,Automatic,Gasoline,750000
+450,Skoda Kodiaq,2024,80000,White,Automatic,Gasoline,3050000
+451,Toyota Land Cruiser,2022,80000,White,Automatic,Gasoline,9200000
+452,Hyundai Viva,2008,200000,Silver,Manual,Gasoline,260000
+453,Fiat Tipo,2022,24000,Gray,Automatic,Gasoline,920000
+454,Hyundai Tucson,2025,80000,White,Automatic,Gasoline,2600000
+455,Hyundai Elantra CN7,2022,54000,Dark Green,Automatic,Gasoline,1320000
+456,Mercedes E 200,2015,162000,Black,Automatic,Gasoline,2300000
+457,Peugeot 2008,2019,81000,Red,Automatic,Gasoline,970000
+458,Skoda Kodiaq,2024,80000,Blue,Automatic,Gasoline,2900000
+459,Volkswagen Passat,2010,151000,Silver,Automatic,Gasoline,675000
+460,Mitsubishi Xpander Cross,2024,500,White,Automatic,Gasoline,1450000
+461,Nissan Juke,2022,60000,Gray,Automatic,Gasoline,1035000
+462,Mitsubishi Lancer EX Shark,2015,100000,Black,Automatic,Gasoline,720000
+463,Chevrolet Aveo,2020,80000,Silver,Automatic,Gasoline,549000
+464,Nissan Sunny,2022,80000,Dark Grey,Automatic,Gasoline,670000
+465,Chery Tiggo 8,2021,21000,Black,Automatic,Gasoline,1100000
+466,Mercedes E 200,2014,216000,Silver,Automatic,Gasoline,2100000
+467,MG 6,2022,63000,Black,Automatic,Gasoline,1030000
+468,Hyundai H1,2011,250000,White,Manual,Diesel,440000
+469,Nissan Sunny,2022,45000,Red,Automatic,Diesel,575000
+470,KIA Rio,2015,235000,Red,Automatic,Diesel,660000
+471,Land Rover Discovery,2021,4000,White,Automatic,Hybrid,3250000
+472,Skoda Kodiaq,2025,80000,Black,Automatic,Hybrid,2700000
+473,BYD F3,2010,145000,White,Manual,Hybrid,225000
+474,Chery Arrizo 5,2023,49000,Red,Automatic,Hybrid,700000
+475,KIA K8,2022,17000,White,Automatic,Hybrid,3000000
+476,Chevrolet Optra,2022,122000,Silver,Automatic,Hybrid,650000
+477,KIA Sorento,2025,80000,Black,Automatic,Hybrid,3250000
+478,Geely Okavango,2022,66000,Silver,Automatic,Hybrid,1200000
+479,KIA Picanto,2010,200000,White,Automatic,Hybrid,460000
+480,KIA Sorento,2024,6900,White,Automatic,Hybrid,2885000
+481,Hyundai Santa Fe,2024,5690,White,Automatic,Hybrid,2034000
+482,Hyundai Santa Fe,2024,4819,White,Automatic,Hybrid,2107000
+483,Hyundai Santa Fe,2024,10490,White,Automatic,Hybrid,2071000
+484,KIA Sporatge,2023,34379,White,Automatic,Hybrid,1519000
+485,KIA Sporatge,2023,12000,Gray,Automatic,Hybrid,1512000
+486,KIA Sorento,2022,30000,Blue,Automatic,Hybrid,2300000
+487,Nissan Xtrail,2024,10500,Red,Manual,Hybrid,2600000
+488,KIA Carnival,2024,63000,White,Automatic,Hybrid,3850000
+489,Mercedes E 200,2020,56000,White,Automatic,Hybrid,2600000
+490,Mercedes GLC 300,2021,72000,White,Automatic,Hybrid,4250000
+491,KIA Sorento,2024,63000,White,Automatic,Hybrid,4300000
+492,Jeep Compass,2023,24000,White,Automatic,Hybrid,2050000
+493,Renault Logan,2020,60000,Red,Manual,Gasoline,449000
+494,Geely Emgrand 7,2014,110000,Red,Manual,Gasoline,295000
+495,Chevrolet Lanos,2016,300000,Dark Grey,Manual,Gasoline,340000
+496,Geely Emgrand 7,2015,270000,White,Manual,Gasoline,285000
+497,Fiat Tipo,2020,146000,Brown,Manual,Gasoline,490000
+498,Renault Logan,2013,280000,Dark Grey,Manual,Gasoline,299000
+499,BMW 740,2019,47000,Dark Grey,Manual,Gasoline,4700000
+500,Lada Granta,2020,70000,Dark Grey,Manual,Gasoline,340000
+501,Hyundai Verna,2014,180000,Dark Red,Manual,Gasoline,280000
+502,BYD F3,2020,200000,Black,Manual,Gasoline,320000
+503,Chevrolet Lanos,2018,127000,Blue,Manual,Gasoline,190000
+504,Renault Logan,2017,85000,Silver,Manual,Gasoline,400000
+505,Chery Arrizo 5,2021,170000,Silver,Manual,Gasoline,575000
+506,Fiat Tipo,2021,120000,White,Manual,Gasoline,650000
+507,BYD F3,2018,217000,Blue,Manual,Gasoline,360000
+508,Chevrolet Lanos,2013,100000,Black,Manual,Gasoline,255000
+509,Geely Emgrand 7,2018,130000,Dark Blue,Manual,Gasoline,420000
+510,Nissan Sunny,2013,164000,Black,Manual,Gasoline,400000
+511,Hyundai Verna,2017,140000,White,Manual,Gasoline,480000
+512,Skoda Octavia A8,2022,140000,White,Manual,Gasoline,1750000
+513,Hyundai Verna,2013,170000,Champange,Manual,Gasoline,350000
+514,Chevrolet Aveo,2013,63000,Drak Grey,Manual,Gasoline,350000
+515,Hyundai Verna,2015,345000,White,Manual,Gasoline,350000
+516,Chevrolet Aveo,2013,400000,Black,Manual,Gasoline,335000
+517,Renault Logan,2021,90000,Gold,Manual,Gasoline,480000
+518,Xpeng G9,2024,1000,Black,Automatic,Electric,3325000
+519,Volkswagen ID 6,2024,63000,White,Automatic,Electric,2500000
+520,Mercedes EQB 260,2024,3000,Silver,Automatic,Electric,2600000
+521,Mercedes EQA,2024,800,Black,Automatic,Electric,2325000
+522,Jac JS4,2019,41000,Red,Automatic,Electric,1200000
+523,BMW XI3,2024,6200,White,Automatic,Electric,3600000
+524,Mercedes EQE,2024,63000,Black,Automatic,Electric,3900000
+525,Mercedes EQE,2023,8000,White,Automatic,Electric,5150000
+526,BMW X3 M,2022,17000,Blue,Automatic,Electric,2900000
+527,Volkswagen ID 6,2024,63000,Dark Blue,Automatic,Electric,2300000
+528,Tesla Model Y,2021,97000,Petroleum,Automatic,Electric,2600000
+529,Volkswagen ID 4,2023,63000,Silver,Automatic,Electric,1885000
+530,BMW I3,2024,63000,Black,Automatic,Electric,2485000
+531,Volkswagen ID 4,2023,18000,Silver,Automatic,Electric,1875000
+532,BMW IX3,2024,1400,Black,Automatic,Electric,3050000
+533,Tesla Model 3,2023,10000,Red,Automatic,Electric,3400000
+534,Volkswagen ID 4,2024,100,Gray,Automatic,Electric,2250000
+535,Mercedes EQA,2024,63000,Black,Automatic,Electric,2400000
+536,Tesla Model 3,2022,37000,White,Automatic,Electric,2200000
+537,BMW I3,2024,6300,Blue,Automatic,Electric,2300000
+538,Volkswagen Passat,2010,151000,Silver,Automatic,Gasoline,675000
+539,Baic X3,2022,26000,White,Automatic,Gasoline,850000
+540,Nissan Sunny,2014,134000,Gold,Automatic,Gasoline,515000
+541,KIA Sorento,2023,13500,Silver,Automatic,Hybrid,2270000
+542,KIA Sorento,2025,63000,Black,Automatic,Gasoline,3260000
+543,Hyundai Elantra CN7,2022,79000,Dark Red,Automatic,Gasoline,1270000
+544,Land Rover Velar,2024,35000,Gray,Automatic,Gasoline,5700000
+545,BMW 318,2019,78000,Silver,Automatic,Gasoline,1525000
+546,Jeep Renegade,2021,33000,Red,Automatic,Gasoline,1500000
+547,Skoda Kodiaq,2020,92000,Black,Automatic,Gasoline,1800000
+548,Skoda Superb,2022,105000,Silver,Automatic,Gasoline,1950000
+549,BMW X1,2014,227000,Silver,Automatic,Gasoline,990000
+550,Mercedes E 200,2023,30000,Black,Automatic,Gasoline,4400000
+551,Jeep Grand Cherokee,2021,40000,Dark Grey,Automatic,Gasoline,4000000
+552,Chery Tiggo 7,2022,15000,Dark Grey,Automatic,Gasoline,955000
+553,Citroen C5 Aircross,2023,50000,Silver,Automatic,Gasoline,1720000
+554,Citroen C4,2024,10,White,Automatic,Gasoline,1700000
+555,Mercedes GLC 300,2025,63000,White,Automatic,Gasoline,5500000
+556,BMW 328,2015,155000,Black,Automatic,Gasoline,1400000
+557,Volkswagen Teramont,2024,63000,White,Automatic,Gasoline,6000000
+558,Volkswagen Passat,2019,70000,White,Automatic,Gasoline,1400000
+559,Mercedes E 250,2017,22000,Black,Automatic,Gasoline,3800000
+560,Honda Odyssey,2018,80000,Black,Automatic,Gasoline,2950000
+561,Chery Tiggo 3,2023,36000,Blue,Automatic,Gasoline,760000
+562,Jeep Grand Cherokee,2011,52000,Red,Automatic,Gasoline,1300000
+563,Mercedes CLA 200,2022,70000,Silver,Automatic,Gasoline,2380000
+564,Skoda Kodiaq,2019,106000,Gray,Automatic,Gasoline,1650000
+565,MG Rx5,2019,90000,Black,Automatic,Gasoline,950000
+566,Renault Kadjar,2019,107000,White,Automatic,Gasoline,1190000
+567,Fiat Tipo,2020,250000,Dark Red,Manual,Gasoline,500000
+568,Hyundai Elantra AD,2020,80000,Gold,Automatic,Gasoline,860000
+569,Skoda Octivia A8,2022,43000,Blue,Automatic,Gasoline,1550000
+570,Seat Lbiza,2021,130000,Blue,Automatic,Gasoline,1070000
+571,Opel Astra,2016,140000,Gray,Automatic,Gasoline,715000
+572,Mercedes C 180,2024,63000,Black,Automatic,Gasoline,4000000
+573,MG 5,2022,115000,Black,Automatic,Gasoline,760000
+574,Nissan Sunny,2016,300000,Black,Automatic,Gasoline,445000
+575,Toyota Yaris,2017,115000,White,Automatic,Gasoline,675000
+576,Ssang Yong Tivoil XLV,2018,97000,Silver,Automatic,Gasoline,795000
+577,Speranza A113,2009,161000,Dark Blue,Manual,Gasoline,150000
+578,KIA Ceed,2016,178000,Eggplant,Automatic,Gasoline,680000
+579,Suzuki Ciaz,2024,6000,Silver,Automatic,Gasoline,840000
+580,Chery Tiggo 7,2023,18900,Dark Grey,Automatic,Gasoline,930000
+581,KIA Sporatge,2014,138000,Silver,Automatic,Gasoline,970000
+582,KIA Picanto,2008,179000,Black,Automatic,Gasoline,395000
+583,MG 6,2022,59000,White,Automatic,Gasoline,1085000
+584,Toyota Corolla,2022,60000,Petroleum,Automatic,Gasoline,1145000
+585,Hyundai Elantra AD,2019,70000,Black,Automatic,Gasoline,945000
+586,Hyundai Elantra HD,2021,65000,Silver,Automatic,Gasoline,1000000
+587,Subaru XV,2017,190000,Blue,Automatic,Gasoline,1000000
+588,BMW 116,2009,270000,Red,Automatic,Gasoline,660000
+589,Hyundai Tucson GDI,2019,95000,White,Automatic,Gasoline,1440000
+590,MG 5,2021,106000,Silver,Automatic,Gasoline,755000
+591,BYD L3,2022,165000,Silver,Automatic,Gasoline,510000
+592,KIA Sporatge,2020,85000,Dark Blue,Automatic,Gasoline,1570000
+593,Hyundai Elantra HD,2017,145000,Silver,Automatic,Gasoline,675000
+594,KIA Picanto,2015,70000,Silver,Automatic,Gasoline,535000
+595,Mitsubishi Lancer EX Shark,2015,120000,Black,Automatic,Gasoline,660000
+596,Ssang Yong Torres,2024,4000,White,Automatic,Gasoline,1900000
+597,KIA Cerato,2011,200000,Red,Automatic,Gasoline,665000
+598,Hyundai Elantra HD,2020,80000,Bronze,Automatic,Gasoline,700000
